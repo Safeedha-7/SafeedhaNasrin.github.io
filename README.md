@@ -1,8 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Microsoft Excel, Python, SQL, R, Tableau and Power BI.
+## Technical Skills
+Microsoft Excel, Python, SQL, R, Tableau and Power BI.
+
 ## Education
-- BSc.Chemistry |  University of Calicut  (_August 2022_)								       		
+BSc.Chemistry |  University of Calicut  (_August 2022_)								       		
 
 ## Work Experience
 **Intern Data Analyst @ Futura Labs Technologies LLP | Calicut, India (June 2023 - December 2023)**
