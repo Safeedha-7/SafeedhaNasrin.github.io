@@ -24,7 +24,7 @@ Analyzed a superstore's sales data to derive actionable insights. Key tasks incl
 [Project Repo](https://github.com/Safeedha-7/Superstore-Sales-Analysis.git).
 
 ### Loan Approval Prediction Web Application
-![Loan Approval](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/blob/main/assets/loan%20approval.jpg)
+![Loan Approval](assets/loan approval.jpg)
 
 Developed a machine learning model to predict loan approval status based on applicant data, including income, credit history, and loan amount. The project involved data preprocessing, feature engineering, and implementing classification algorithms to achieve optimal accuracy. Built a user-friendly web application using Streamlit, enabling users to input applicant details and get real-time predictions. This project demonstrates proficiency in end-to-end ML workflows, web app development, and deploying data-driven solutions.
 
