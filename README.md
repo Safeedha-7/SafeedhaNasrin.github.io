@@ -17,11 +17,18 @@ BSc.Chemistry |  University of Calicut  (_August 2022_)
 
 ## Projects
 ### Superstore Sales Analysis
-![global happiness](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/assets/147964860/ad761a51-d09e-4818-b3fd-9fabbd628f26)
+![Superstore](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/blob/main/assets/superstore.jpg)
 
 Analyzed a superstore's sales data to derive actionable insights. Key tasks included data cleaning, preprocessing, and exploratory data analysis to identify sales trends, customer behavior, and performance across product categories and regions. Utilized Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization. Presented findings through clear visualizations and summaries, highlighting factors influencing revenue and profitability, helping stakeholders make data-driven decisions.
 
-[Project Repo](https://github.com/Safeedha-7/Superstore-Sales-Analysis/blob/main/Project_4_Superstore_Sales_Analysis.ipynb).
+[Project Repo](https://github.com/Safeedha-7/Superstore-Sales-Analysis.git).
+
+### Loan Approval Prediction Web Application
+![Loan Approval]
+
+Developed a machine learning model to predict loan approval status based on applicant data, including income, credit history, and loan amount. The project involved data preprocessing, feature engineering, and implementing classification algorithms to achieve optimal accuracy. Built a user-friendly web application using Streamlit, enabling users to input applicant details and get real-time predictions. This project demonstrates proficiency in end-to-end ML workflows, web app development, and deploying data-driven solutions.
+
+[Project Repo](https://github.com/Safeedha-7/Loan-Approval-Prediction-ML.git).
 
 ### Breast Cancer Diagnosis Prediction: Leveraging Machine Learning
 ![Breast cancer](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/assets/147964860/ad9ab938-9257-4213-82b2-05921129f807)
