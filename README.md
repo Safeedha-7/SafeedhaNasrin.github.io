@@ -17,7 +17,7 @@ BSc.Chemistry |  University of Calicut  (_August 2022_)
 
 ## Projects
 ### Superstore Sales Analysis
-![Superstore](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/blob/main/assets/superstore.jpg)
+![Superstore](assets/superstore.jpg)
 
 Analyzed a superstore's sales data to derive actionable insights. Key tasks included data cleaning, preprocessing, and exploratory data analysis to identify sales trends, customer behavior, and performance across product categories and regions. Utilized Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization. Presented findings through clear visualizations and summaries, highlighting factors influencing revenue and profitability, helping stakeholders make data-driven decisions.
 
