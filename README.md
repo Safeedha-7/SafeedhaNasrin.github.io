@@ -16,13 +16,12 @@ BSc.Chemistry |  University of Calicut  (_August 2022_)
 
 
 ## Projects
-### Global_Happiness_Report
+### Superstore Sales Analysis
 ![global happiness](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/assets/147964860/ad761a51-d09e-4818-b3fd-9fabbd628f26)
 
-The project presents a comprehensive analysis of global happiness trends through a dynamic dashboard crafted using **Excel** for data transformation and **Power BI** for visualization.
-Through meticulous data processing in Excel, meticulously curated datasets encompass diverse metrics including economic indicators, social factors, and environmental variables, reflecting the multifaceted nature of happiness. Leveraging the robust visualization capabilities of Power BI, these datasets are transformed into intuitive and interactive charts, graphs, and maps, facilitating a deeper understanding of global happiness dynamics.
+Analyzed a superstore's sales data to derive actionable insights. Key tasks included data cleaning, preprocessing, and exploratory data analysis to identify sales trends, customer behavior, and performance across product categories and regions. Utilized Python libraries like Pandas, Matplotlib, and Seaborn for data manipulation and visualization. Presented findings through clear visualizations and summaries, highlighting factors influencing revenue and profitability, helping stakeholders make data-driven decisions.
 
-[Project Repo](https://github.com/Safeedha-7/Global_Happiness_Report.git).
+[Project Repo](https://github.com/Safeedha-7/Superstore-Sales-Analysis/blob/main/Project_4_Superstore_Sales_Analysis.ipynb).
 
 ### Breast Cancer Diagnosis Prediction: Leveraging Machine Learning
 ![Breast cancer](https://github.com/Safeedha-7/SafeedhaNasrin.github.io/assets/147964860/ad9ab938-9257-4213-82b2-05921129f807)
